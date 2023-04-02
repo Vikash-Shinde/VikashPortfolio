@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/VikashPortfolio/static/css/main.01d2e01b.css",
-    "main.js": "/VikashPortfolio/static/js/main.e98b06ca.js",
+    "main.js": "/VikashPortfolio/static/js/main.b7c2d291.js",
     "static/js/787.de2c2cfc.chunk.js": "/VikashPortfolio/static/js/787.de2c2cfc.chunk.js",
     "static/media/NewsPo.png": "/VikashPortfolio/static/media/NewsPo.801b4feed032e7433987.png",
     "static/media/WeatherPo.png": "/VikashPortfolio/static/media/WeatherPo.6979dff7d0ae3bfabec8.png",
@@ -9,11 +9,11 @@
     "static/media/TextusPo.png": "/VikashPortfolio/static/media/TextusPo.e25cf9b8a448081f637e.png",
     "index.html": "/VikashPortfolio/index.html",
     "main.01d2e01b.css.map": "/VikashPortfolio/static/css/main.01d2e01b.css.map",
-    "main.e98b06ca.js.map": "/VikashPortfolio/static/js/main.e98b06ca.js.map",
+    "main.b7c2d291.js.map": "/VikashPortfolio/static/js/main.b7c2d291.js.map",
     "787.de2c2cfc.chunk.js.map": "/VikashPortfolio/static/js/787.de2c2cfc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.01d2e01b.css",
-    "static/js/main.e98b06ca.js"
+    "static/js/main.b7c2d291.js"
   ]
 }
