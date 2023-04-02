@@ -12,7 +12,7 @@ export default function Footer() {
     <div className=" col-md-9 p-lg-6 mx-auto ">
          <h3 className=" pb-3 fw-bolder">VIKASH SHINDE</h3>
     <p className='lead'>A Frontend focused Web Developer building the Frontend of Websites and Web Applications that leads to the success of the overall product.</p>
-    <span>Email: vikashshinde007@gmail.com</span></div>
+    <span>Email: vikasshinde851@gmail.com</span></div>
     </div>
 
     <div className=" offset-md-4 p-lg-7 mx-auto">
@@ -28,8 +28,9 @@ export default function Footer() {
   <div className='position-relative overflow-hidden text-center p-3 p-md-5 my-0'>
     <hr />
         &copy; Copyright 2023
-        <script>document.write(new Date().getFullYear())</script>. Made by
-        <a rel="noreferrer" target="_blank" href="https://vikash-shinde.github.io/VikashPortfolio/"> vikashShinde</a>
+        <script>document.write(new Date().getFullYear())</script>. Made by :   
+        <span><a rel="noreferrer" target="_blank" href="https://vikash-shinde.github.io/VikashPortfolio/"> 
+              VikashShinde</a> </span>
       </div>
  
 </div>

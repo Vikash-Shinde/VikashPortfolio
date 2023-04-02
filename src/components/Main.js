@@ -37,7 +37,7 @@ export default function Main() {
             {/* about me.. */}
             <section className='about_hero' id='About'>
                 <div className="position-relative overflow-hidden text-center p-3 p-md-5 my-0 bg-light about_hero_content" >
-                    <div className="col-md-8 p-lg-5 mx-auto my-5 " >
+                    <div className="col-md-8 p-lg-5 mx-auto my-2 " >
                         <h1 className="display-4 pt-5 mb-5 fw-bolder">About Me</h1>
                         <p className="lead fw-bold lead">Here you will find more information about me, what I do, and my current skills mostly in terms of programming and technology.</p>
                     </div>
@@ -51,22 +51,21 @@ export default function Main() {
                                 I'm a <strong>Frontend Web Developer</strong> building the
                                 Front-end of Websites and Web Applications that leads to the
                                 success of the overall product. Check out some of my work in the
-                                <strong>Projects</strong> section.
+                                <strong> Projects</strong> section.
                             </p>
+                          
                             <p className='fs-5'>
-                                I also like sharing content related to the stuff that I have
-                                learned over the years in <strong>Web Development</strong> so it
-                                can help other people of the Dev Community. Feel free to Connect
-                                or Follow me on my
-                                <a rel="noreferrer" href="#" target="_blank">Linkedin</a>
-                                where I post useful content related to Web Development and
-                                Programming.
+                            I also like creating user-friendly websites which are unique in design. 
+                              
+                                      Love to think creative, I loosely remember everything but I deem to hold grip on concepts. Basketball player in school and Active member of science club in college.
+
+                              
                             </p>
                             <p className='fs-5'>
                                 I'm open to <strong>Job</strong> opportunities where I can
                                 contribute, learn and grow. If you have a good opportunity that
-                                matches my skills and experience then don't hesitate to
-                                <strong>contact</strong> me.
+                                matches my skills then don't hesitate to
+                                <strong> contact</strong> me.
                             </p>
                         </div>
                         <div className="col px-5 mx-5">
@@ -88,8 +87,8 @@ export default function Main() {
 
             {/* projects sections */}
             <section className='about_hero' id='Projects'>
-                <div className="position-relative overflow-hidden text-center p-3 p-md-5 my-0 bg-light about_hero_content" >
-                    <div className="col-md-8 p-lg-5 mx-auto my-5 " >
+                <div className="position-relative overflow-hidden text-center p-3 p-md-2 my-0 bg-light about_hero_content" >
+                    <div className="col-md-8 p-lg-5 mx-auto my-3 " >
                         <h1 className="display-4 pt-5 mb-5 fw-bolder">Projects.</h1>
                         <p className="lead fw-bold lead">Here you will find some of the personal and clients projects that I created with each project containing its own case study.</p>
                     </div>
